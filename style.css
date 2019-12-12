@@ -1,0 +1,26 @@
+p {
+  color: ccc;
+  background-color: coral;
+  border: 1px solid black;
+
+}
+
+img{
+  border: 2px solid black;
+  margin: 5px 5px 5px 5px;
+  position: sticky;
+}
+a{
+  border: 2px solid black;
+  padding: 1px;
+  color: black;
+  margin: 5px 10px 10px 10px;
+  align-content: space-between ;
+  row-gap: 200px;
+  align-content: center;
+  
+}
+header > {
+  align-content: space-around;
+  row-gap: 45px;
+}
